@@ -5,8 +5,11 @@ D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Applica
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\bin\Debug\EntityFramework.SqlServer.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\bin\Debug\EntityFramework.xml
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\bin\Debug\EntityFramework.SqlServer.xml
-D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\obj\Debug\StackOverflow.Repositories.csproj.AssemblyReference.cache
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\obj\Debug\StackOverflow.Repositories.csproj.CoreCompileInputs.cache
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\obj\Debug\StackOverflow.Repositories.csproj.CopyComplete
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\obj\Debug\StackOverflow.Repositories.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\obj\Debug\StackOverflow.Repositories.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\bin\Debug\StackOverflow.DomainModels.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\bin\Debug\StackOverflow.DomainModels.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\bin\Debug\StackOverflow.DomainModels.dll.config
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Repositories\obj\Debug\StackOverflow.Repositories.csproj.AssemblyReference.cache

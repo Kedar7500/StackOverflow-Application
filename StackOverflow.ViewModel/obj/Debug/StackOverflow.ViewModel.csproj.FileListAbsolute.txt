@@ -1,6 +1,5 @@
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.ViewModel\bin\Debug\StackOverflow.ViewModel.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.ViewModel\bin\Debug\StackOverflow.ViewModel.pdb
-D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.ViewModel\obj\Debug\StackOverflow.ViewModel.csproj.AssemblyReference.cache
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.ViewModel\obj\Debug\StackOverflow.ViewModel.csproj.CoreCompileInputs.cache
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.ViewModel\obj\Debug\StackOverflow.ViewModel.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.ViewModel\obj\Debug\StackOverflow.ViewModel.pdb

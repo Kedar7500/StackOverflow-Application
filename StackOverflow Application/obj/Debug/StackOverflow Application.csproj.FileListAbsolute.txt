@@ -76,8 +76,11 @@ D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Applica
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\bin\Newtonsoft.Json.xml
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\bin\Antlr3.Runtime.pdb
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\obj\Debug\StackOverflow Application.csproj.AssemblyReference.cache
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\obj\Debug\StackOverflow Application.csproj.CoreCompileInputs.cache
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\obj\Debug\StackOverflow Application.csproj.CopyComplete
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\obj\Debug\StackOverflow Application.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\obj\Debug\StackOverflow Application.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\bin\StackOverflow.DomainModels.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\bin\StackOverflow.DomainModels.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\bin\StackOverflow.DomainModels.dll.config
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow Application\obj\Debug\StackOverflow Application.csproj.AssemblyReference.cache

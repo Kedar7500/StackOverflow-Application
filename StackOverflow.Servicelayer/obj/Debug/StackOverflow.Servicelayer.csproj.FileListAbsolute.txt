@@ -1,6 +1,12 @@
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.Servicelayer.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.Servicelayer.pdb
-D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.csproj.AssemblyReference.cache
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.csproj.CoreCompileInputs.cache
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.DomainModels.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\EntityFramework.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.DomainModels.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.DomainModels.dll.config
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\EntityFramework.xml
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.csproj.AssemblyReference.cache
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.csproj.CopyComplete

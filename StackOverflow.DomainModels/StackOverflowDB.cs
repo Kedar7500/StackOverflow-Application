@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StackOverflow.DomainModels
+{
+    public class StackOverflowDB : DbContext
+    {
+        public DbSet<User> Users { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Questions> Questions { get; set; }
+        public DbSet<Answer> Answers { get; set; }
+        public DbSet<Vote> Votes { get; set; }
+    }
+}

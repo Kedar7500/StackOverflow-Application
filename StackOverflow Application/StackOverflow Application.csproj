@@ -142,6 +142,13 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\avatar.png" />
+    <Content Include="Images\down-color.png" />
+    <Content Include="Images\down-empty.png" />
+    <Content Include="Images\map.svg" />
+    <Content Include="Images\up-color.png" />
+    <Content Include="Images\up-empty.png" />
+    <Content Include="Images\user.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -186,6 +193,12 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StackOverflow.DomainModels\StackOverflow.DomainModels.csproj">
+      <Project>{0de534c5-c30a-4063-a74e-11f76efc4170}</Project>
+      <Name>StackOverflow.DomainModels</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
