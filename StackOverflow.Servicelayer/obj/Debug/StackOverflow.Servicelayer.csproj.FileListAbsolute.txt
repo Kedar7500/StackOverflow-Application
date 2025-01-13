@@ -1,0 +1,6 @@
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.Servicelayer.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.Servicelayer.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.csproj.AssemblyReference.cache
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.csproj.CoreCompileInputs.cache
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\obj\Debug\StackOverflow.Servicelayer.pdb
