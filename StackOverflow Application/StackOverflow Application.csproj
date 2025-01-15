@@ -199,6 +199,10 @@
       <Project>{0de534c5-c30a-4063-a74e-11f76efc4170}</Project>
       <Name>StackOverflow.DomainModels</Name>
     </ProjectReference>
+    <ProjectReference Include="..\StackOverflow.ViewModel\StackOverflow.ViewModel.csproj">
+      <Project>{7825fedb-41a5-4e63-a36f-81763292479f}</Project>
+      <Name>StackOverflow.ViewModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

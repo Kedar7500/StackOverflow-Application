@@ -13,3 +13,14 @@ D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Applica
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.Repositories.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.Repositories.pdb
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.Repositories.dll.config
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.ViewModel.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.ViewModel.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.ViewModel.dll.config
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\StackOverflow.Servicelayer.dll.config
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\AutoMapper.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\System.ValueTuple.dll
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\AutoMapper.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\AutoMapper.xml
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.Servicelayer\bin\Debug\System.ValueTuple.xml
