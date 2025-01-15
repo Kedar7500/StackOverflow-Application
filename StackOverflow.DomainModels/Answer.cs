@@ -12,7 +12,7 @@ namespace StackOverflow.DomainModels
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int AnbswerID { get; set; }
+        public int AnswerID { get; set; }
 
         public string AnswerText { get; set; }
 

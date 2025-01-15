@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace StackOverflow.DomainModels
 {
-    public class Questions
+    public class Question
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
