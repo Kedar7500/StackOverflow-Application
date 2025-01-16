@@ -9,3 +9,4 @@ D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Applica
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.DomainModels\obj\Debug\StackOverflow.DomainModels.csproj.CopyComplete
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.DomainModels\obj\Debug\StackOverflow.DomainModels.dll
 D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.DomainModels\obj\Debug\StackOverflow.DomainModels.pdb
+D:\Dot Net Practice\ASP .NET MVC\StackOverflow Application\StackOverflow-Application\StackOverflow.DomainModels\obj\Debug\StackOverflow.DomainModels.csproj.AssemblyReference.cache
